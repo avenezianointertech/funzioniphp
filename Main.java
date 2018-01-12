@@ -16,6 +16,8 @@ public void ciao() {
 public class Ciao() {
     
 
+	
+	int pippo = 1;
 }
 
 public void ciaoAntonio() {
