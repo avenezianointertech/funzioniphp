@@ -4,6 +4,7 @@ public void ciao() {
     int b = a + 1;
     
     System.out.println(a + " | " + b);
+
     
     String ciao = "Ciao";
     
@@ -14,5 +15,11 @@ public void ciao() {
 
 public class Ciao() {
     
-    
+
+}
+
+public void ciaoAntonio() {
+	
+	System.out.println("Ciao antonio");
+
 }
