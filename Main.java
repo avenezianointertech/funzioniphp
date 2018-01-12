@@ -5,3 +5,9 @@ public void ciao() {
     
     System.out.println(a + " | " + b);
 }
+
+public void ciaoAntonio() {
+	
+	System.out.println("Ciao antonio");
+	
+}
