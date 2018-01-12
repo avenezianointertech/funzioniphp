@@ -4,4 +4,15 @@ public void ciao() {
     int b = a + 1;
     
     System.out.println(a + " | " + b);
+    
+    String ciao = "Ciao";
+    
+    ciao += a;
+    
+    Ciao ciao = new Ciao();
+}
+
+public class Ciao() {
+    
+    
 }
